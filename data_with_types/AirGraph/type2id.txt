@@ -1,0 +1,26 @@
+25
+http://dbpedia.org/ontology/ai4dm/Aircraft	0
+http://dbpedia.org/ontology/ai4dm/Manufacturer	1
+http://dbpedia.org/ontology/ai4dm/Wingtip	2
+http://dbpedia.org/ontology/ai4dm/GearConfig	3
+http://dbpedia.org/ontology/ai4dm/WakeCategory	4
+http://dbpedia.org/ontology/ai4dm/PhysicalClass	5
+http://dbpedia.org/ontology/ai4dm/EventType	6
+http://dbpedia.org/ontology/ai4dm/FlightType	7
+http://dbpedia.org/ontology/ai4dm/irportType	8
+http://dbpedia.org/ontology/ai4dm/RegionCode	9
+http://dbpedia.org/ontology/ai4dm/Continent	10
+http://dbpedia.org/ontology/ai4dm/Surface	11
+http://dbpedia.org/ontology/ai4dm/InstitutionType	12
+http://dbpedia.org/ontology/ai4dm/CountryCode	13
+http://dbpedia.org/ontology/ai4dm/Airline	14
+http://dbpedia.org/ontology/ai4dm/Region	15
+http://dbpedia.org/ontology/ai4dm/Organisation	16
+http://dbpedia.org/ontology/ai4dm/Airport	17
+http://xmlns.com/foaf/0.1/Person	18
+http://dbpedia.org/ontology/ai4dm/Country	19
+http://dbpedia.org/ontology/ai4dm/Flight	20
+http://dbpedia.org/ontology/ai4dm/Institution	21
+http://dbpedia.org/ontology/ai4dm/Event	22
+http://dbpedia.org/ontology/ai4dm/Runway	23
+http://www.w3.org/2001/XMLSchema#string 24
