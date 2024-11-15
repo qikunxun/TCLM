@@ -55,5 +55,22 @@ For head queries, you can run our models as bellow:
 python triple_classification_inv.py
 ```
 
+## Citation
+Please consider citing the following paper if you find our codes helpful. Thank you!
+
+```
+@inproceedings{QiDW24,
+  author       = {Kunxun Qi and
+                  Jianfeng Du and
+                  Hai Wan},
+  title        = {Bi-directional Learning of Logical Rules with Type Constraints for
+                  Knowledge Graph Completion},
+  booktitle    = {Proceedings of the 33rd {ACM} International Conference on Information
+                  and Knowledge Management, {CIKM} 2024, Boise, ID, USA, October 21-25,
+                  2024},
+  pages        = {1899--1908},
+  year         = {2024}
+}
+```
 
 
